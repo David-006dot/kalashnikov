@@ -1,0 +1,6 @@
+# Olá, este é um código simples em Python para começar!
+
+def saudacao(nome):
+    print(f"Olá, {nome}! Bem-vindo ao meu repositório GitHub.")
+
+saudacao("Usuário")
